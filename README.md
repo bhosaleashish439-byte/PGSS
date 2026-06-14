@@ -5,7 +5,7 @@ A wearable fall detection device built on ESP32, utilizing an on-device Convolut
 ## 🚀 Key Features
 * **Real-Time Edge AI:** Executes a trained CNN model directly on the ESP32 for immediate fall detection without relying on continuous cloud processing.
 * **Telegram Emergency Alerts:** Automatically dispatches instant notifications containing real-time GPS coordinates to designated contacts when a fall is detected.
-* **Gmail Emergency alerts:**Automatically dispatches instant notifications containing real-time GPS coordinates to designated contacts when a fall is detected.
+* **Gmail Emergency Alerts:** Automatically dispatches instant notifications containing real-time GPS coordinates to designated contacts when a fall is detected.
 * **Web Dashboard Integration:** Logs and displays fall history on a centralized web interface for continuous monitoring and review.
 * **Custom Memory Allocation:** Utilizes a custom partition scheme to efficiently accommodate the embedded machine learning model.
 
